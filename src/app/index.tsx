@@ -5,7 +5,7 @@ import {View, Text, StyleSheet, Image } from 'react-native';
 export default function App(){
   return(
     <View style={homeStyle.container}>
-      <Text style={homeStyle.title}>Naphat</Text>
+      <Text style={homeStyle.title}>Naphat Jaiyen</Text>
 
       <Image source={require('@/assets/pai.jpeg')} 
       style={{
